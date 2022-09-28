@@ -1,6 +1,9 @@
 # PhD-Biblio
 ERC PhD in ML/NLP – information extraction, critical citations, claims and counter-claims in scholarly communication and social networks
 
+## Reading List
+Will be updated and timestamped
+
 ## NLP
   
 - Jurgens, D., Kumar, S., Hoover, R., McFarland, D., & Jurafsky, D. (2016). Citation classification for behavioral analysis of a scientific field. arXiv preprint arXiv:1609.00435.
@@ -23,3 +26,8 @@ ERC PhD in ML/NLP – information extraction, critical citations, claims and cou
 ## Other (maths, mt...)
 
 - Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio, Neural Machine Translation by Jointly Learning to Align and Translate (2015). https://arxiv.org/abs/1409.0473
+
+## Tools
+
+- Wadden, D., Wennberg, U., Luan, Y., & Hajishirzi, H. (2019). Entity, Relation, and Event Extraction with Contextualized Span Representations. ArXiv, abs/1909.03546.h (tool > https://github.com/dwadden/dygiepp)
+
