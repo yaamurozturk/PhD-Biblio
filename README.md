@@ -20,6 +20,6 @@ ERC PhD in ML/NLP – information extraction, critical citations, claims and cou
 - Pride, D., Knoth, P., & Harag, J. (2019). ACT: an annotation platform for citation typing at scale. In 2019 ACM/IEEE Joint Conference on Digital Libraries (JCDL)
 (pp. 329-330). IEEE.
 
-## Other 
+## Other (maths, mt...)
 
 - Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio, Neural Machine Translation by Jointly Learning to Align and Translate (2015). https://arxiv.org/abs/1409.0473
