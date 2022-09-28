@@ -31,3 +31,8 @@ Will be updated and timestamped
 
 - Wadden, D., Wennberg, U., Luan, Y., & Hajishirzi, H. (2019). Entity, Relation, and Event Extraction with Contextualized Span Representations. ArXiv, abs/1909.03546.h (tool > https://github.com/dwadden/dygiepp)
 
+## Helpful sources
+
+- https://www.discoveringstatistics.com/statistics-hell-p/
+- https://www.youtube.com/c/CNRSFormationFIDLE/featured
+
